@@ -5,6 +5,7 @@ The Download Link for the Emulators: https://mega.nz/file/QIUHEASa#xpvid6dwlVYgl
 
 You can download games for every emulator on romsgames.net or freeroms.com
 BEFORE INSTALLING: You need to have your PSP modded with the version "6.61"
+Heres the Download link for the "6.61 Update": https://mega.nz/file/YF9iXR5I#FM2gQXQGBXIapmGvi5YCg4CIY93l3fVyD6lg4YSczLo Once you downloaded the 7z file, extract it
 Heres the Download Link for "Infinity 2.0" (you need it on your psp to crack it) https://mega.nz/file/kJ01DaTY#YKMW-DaFwVl5Q9l-y4yhSrPqHSPTywD9BZNuodD1m9c
 After you did that, your gonna extract the file. Once your in the file itself, your gonna create a folder called "UPDATE". When your done with that, go back to the extracted files and click on the folder called "standard". In there is.a file called "EBOOT.PBP" Your gonna copy paste that file into your new folder called "UPDATE" When your done with that, your gonna leave the folder here first.
 
